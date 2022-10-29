@@ -35,3 +35,4 @@ terraform.rc
 
 # Other Files
 .DS_Store
+~*.docx
