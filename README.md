@@ -64,6 +64,7 @@ Code added inside Jenkinsfile:
 - Jenkins (CI/CD pipeline management, email configuration)
 - GitHub (repository, access tokens)
 - Software Application Stack: Python, Flask, Gunicorn
+- AWS IAM (User access key and secret key)
 - AWS VPC (VPC, subnets, internet gateway, route tables)
 - AWS EC2 (security groups)
 - Diagrams.net (systems design)
