@@ -2,6 +2,8 @@
 
 #### Assignment instructions can be found here: [Deployment4_Instructions.pdf](https://github.com/cadenhong/kl_wk16_deployment4/blob/main/Deployment-4_Assignment.pdf)
 
+Use [this repository](https://github.com/cadenhong/kl_wk16_deployment4) to build and deploy in Jenkins.
+
 ## Tasks
 - Complete the deployment based on provided instructions
 - Include additions made from Deployment 3 to the pipeline
